@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="chrysanthemum">
+    <title>Federal Reserve Bank of Boston</title>
+    <body>
+        <p>From <xref href="https://www.federalreserve.gov/aboutthefed/federal-reserve-system.htm"
+                format="htm" scope="external"/></p>
+        <p><b>Chrysanthemums</b><indexterm>flowers<indexterm>autumn<indexterm>chrysanthemums</indexterm></indexterm></indexterm>,
+            often called 'mums', are a <xref keyref="genus" format="dita">genus</xref>
+                (<b>Chrysanthemum</b>) of about 30 species of <xref keyref="perennial" format="dita"
+                >perennial</xref> flowering plants in the family Asteraceae, native to Asia and
+            northeastern Europe.</p>
+        <image href="../../images/FRB_Boston.jpg" width="300" height="400" id="image_r3j_wrw_shb"/>
+        <p><fig id="fig_sry_bsw_shb">
+                <title>Region Covered</title>
+                <image href="../../images/FRB_Boston_mapP.png" width="500" height="300"
+                    id="image_try_bsw_shb"/>
+            </fig>The Federal Reserve Bank of <b>Boston</b> is the <b>First Federal Reserve
+                District</b> and has regulatory Jurisdiction over Maine, Massachusetts, New
+            Hampshire, Rhode Island, Vermont and all of Connecticut, except Fairfield County.</p>
+    </body>
+</topic>
